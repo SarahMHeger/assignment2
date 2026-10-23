@@ -17,5 +17,4 @@ To https://github.com/SarahMHeger/assignment2.git
 6. git log Vehicle.h
 7. git log --grep="file"
 8. inheritance is when a class acquires the properties and behaviors of another class ( is a relationship), polymorphism is the ability for one interface/method name to behave differently depending on the object using it, encapsulation is bundling data and methods that operate on it inside a class and restritcting access to the internal state. 
-9. For integration manager workflow, one integration manager merges everyone's wor and resolves conflicts. In dicator and lieutenants, integration is spread across a hiearchu, lietenants merge work for subsets of developers, and the dictator merges the lieutenants work and is the only one who can push to the repository. 
-10. With 100 developers, dictators and lietenant benefits include, fewer conflicts, as developers only integrate with their lieutenants small group, no bottle neck, and better quality control as only the dicator pushes to main, and merging work is divided among liutenants. 
+
