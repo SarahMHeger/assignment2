@@ -1,0 +1,21 @@
+
+
+1. MacBook-Pro-10:docs sarah$ git push
+Enumerating objects: 8, done.
+Counting objects: 100% (8/8), done.
+Delta compression using up to 8 threads
+Compressing objects: 100% (5/5), done.
+Writing objects: 100% (7/7), 739 bytes | 739.00 KiB/s, done.
+Total 7 (delta 2), reused 0 (delta 0), pack-reused 0 (from 0)
+remote: Resolving deltas: 100% (2/2), completed with 1 local object.
+To https://github.com/SarahMHeger/assignment2.git
+   2066f98..8e3905f  master -> master
+2. 10 commits so far git rev-list --count --all
+3. Thu Oct 22 23:31:00 2026 -0400 git log -1 README.md
+4. isolated development and parallel collaboration
+5. git log shows history of committed changes while git status shows the current state of the working directory and staging area.
+6. git log Vehicle.h
+7. git log --grep="file"
+8. inheritance is when a class acquires the properties and behaviors of another class ( is a relationship), polymorphism is the ability for one interface/method name to behave differently depending on the object using it, encapsulation is bundling data and methods that operate on it inside a class and restritcting access to the internal state. 
+9. For integration manager workflow, one integration manager merges everyone's wor and resolves conflicts. In dicator and lieutenants, integration is spread across a hiearchu, lietenants merge work for subsets of developers, and the dictator merges the lieutenants work and is the only one who can push to the repository. 
+10. With 100 developers, dictators and lietenant benefits include, fewer conflicts, as developers only integrate with their lieutenants small group, no bottle neck, and better quality control as only the dicator pushes to main, and merging work is divided among liutenants. 
